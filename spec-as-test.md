@@ -1,6 +1,8 @@
 # Specification as tests
 
-This assignment writes the specification in tests. Write minimal code to pass those tests.
+This assignment has the specification in tests. Write minimal code to pass those tests.
+
+Food for thought: What else can go wrong? Can you think of more tests?
 
 Pick the assignment in your language:
 
