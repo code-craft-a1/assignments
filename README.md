@@ -2,17 +2,17 @@
 
 ## Assignment per week
 
-Mon - session - clone + read assignment code
+Fri - session - clone + read assignment code
 
 ---
 
-Tue-Thu EoD --> (do many small commits)
+Mon-Wed EoD --> (do many small commits)
 
-Fri --> Review
+Thu --> Review
 
 ---
 
-Mon - session - recap + next assignment
+Fri - session - recap + next assignment
 
 ## Try It
 
