@@ -1,6 +1,7 @@
 # Specification as tests
 
-This assignment has the specification in tests. Write minimal code to pass those tests.
+This assignment has the specification in tests. Write minimal code to pass those tests. Pick an assignment below and see the details in your repository.
+Don't forget to read the README.md :)
 
 Food for thought: What else can go wrong? Can you think of more tests?
 
