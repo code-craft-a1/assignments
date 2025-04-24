@@ -16,7 +16,9 @@ Fri - session - recap + next assignment
 
 ## Try It
 
-[Specification as test](spec-as-test.md)
+[Modular well-named](small.md)
+
+[Specification as test](spec-as-test.md) and [recap](spec-as-test-recap.md)
 
 ## References
 
