@@ -25,3 +25,6 @@ Use of built-in functions [in C++](https://github.com/code-craft-a1/spring-in-cp
 
 Mistake-proofing [with spans and non-discardable return values](https://github.com/clean-code-craft-p-1/spring-in-cpp-art-pogorelov/blob/fc5a656ed2a90d4b160f491865e40222a817a7eb/stats.h#L15)
 
+## Take-away
+
+Use tests to express the specification.

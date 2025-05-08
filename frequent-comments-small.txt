@@ -1,0 +1,3 @@
+Continuing in the spirit of mistake-proofing using `const`, all data-members and functions of this class can be made `const`, since their values never change. Such a class is called 'immutable'. Immutable classes make trouble-shooting a lot easier. 
+
+The conversion functionality (numbers to pairs and vice-versa) has asserts to test the functionality. Can you think of asserts to test the print functionality as well?
