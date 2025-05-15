@@ -1,3 +1,7 @@
 # Recap of strong tests
 
-_Living_ documentation: [Use of mocha to document behavior](https://github.com/code-craft-a1/test-failer-in-js-bhatiaPankaj/blob/9b1c8890f179e2596af911b877f4f8ae0e83e108/test/tshirts.test.mjs) and organize it.
+_Living_ documentation: [Use of mocha to document behavior](https://github.com/code-craft-a1/test-failer-in-js-bhatiaPankaj/blob/5774bfdeba2a804227206081162b8bf717968423/test/tshirts.test.mjs) and isolate different life-cycles.
+
+Clear assertions [for invalid inputs](https://github.com/code-craft-a1/test-failer-in-py-priyanja/blob/42066387823f88ce0f7fd9cce9419fcefbd204b5/tshirts.py)
+
+[Testing the parts](https://github.com/code-craft-a1/test-failer-in-js-bhatiaPankaj/blob/5774bfdeba2a804227206081162b8bf717968423/test/misaligned.test.mjs) which go into making the final result.
