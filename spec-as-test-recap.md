@@ -3,7 +3,7 @@
 The [following code](https://github.com/code-craft-a1/spring-in-cpp-Tanyagarg702/blob/1eb34d3c6be6ddad2bf82a9b8321851a57441d6f/stats.cpp) returns NaN when the input is empty.
 
 ```cpp
-	if (values.empty()) {
+  if (values.empty()) {
     double nan = std::numeric_limits<double>::quiet_NaN();
     return Statistics::Stats(nan, nan, nan);
   }
