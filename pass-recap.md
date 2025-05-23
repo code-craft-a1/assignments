@@ -1,5 +1,5 @@
 
-Different behavior in different classes? Or different instances of one class?
+Different sensor-data in different classes?
 
 ```cpp
 class RainySensorStub : public IWeatherSensor {
@@ -18,6 +18,8 @@ class SunnySensorStub : public IWeatherSensor {
     int WindSpeedKMPH() const override { return 10; }
 };
 ```
+
+... Or different instances of one class?
 
 ```cpp
 class SensorStub : public IWeatherSensor {
