@@ -16,7 +16,7 @@ Fri - session - recap + next assignment
 
 ## Try It
 
-[Reduce complexity](functional.md)
+[Reduce complexity](functional.md) and [recap](functional-recap.md)
 
 [Fix the code to pass](pass.md) and [recap](pass-recap.md)
 
