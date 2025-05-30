@@ -12,10 +12,10 @@ Action taken when temperature is low is very different from when it is high. Not
 
 [Testing the parts, then testing the whole](https://github.com/code-craft-a1/simple-monitor-in-py-priyanja/blob/ccc5a53bad2fcd132c383dbb8caf79ae80359314/monitor.test.py)
 
+[Property based tests for range](https://github.com/clean-code-craft-p-1/simple-monitor-in-cpp-art-pogorelov/blob/c0d771ad5924b8427a50daf496745c0cbebcc232/monitor/test/src/RangeTest.cpp)
+
 ## Open-close principle
 
 The code is open for extension, but closed for modification. How far do we keep it open?
 
 [Vitals declared as yml](https://github.com/clean-code-craft-p-1/simple-monitor-in-cpp-art-pogorelov/blob/c0d771ad5924b8427a50daf496745c0cbebcc232/monitor/resource/config.yml)
-
-[Property based tests for range](https://github.com/clean-code-craft-p-1/simple-monitor-in-cpp-art-pogorelov/blob/c0d771ad5924b8427a50daf496745c0cbebcc232/monitor/test/src/RangeTest.cpp)
