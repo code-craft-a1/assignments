@@ -14,6 +14,8 @@ Thu --> Review
 
 Fri - session - recap + next assignment
 
+> [See here](transcripts.md) for the course transcripts
+
 ## Try It
 
 [Reduce complexity](functional.md) and [recap](functional-recap.md)
