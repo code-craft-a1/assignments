@@ -1,5 +1,7 @@
 # Habits for speed and reliability
 
+> [See here](transcripts.md) for the course transcripts
+
 ## Assignment per week
 
 Fri - session - clone + read assignment code
@@ -13,8 +15,6 @@ Thu --> Review
 ---
 
 Fri - session - recap + next assignment
-
-> [See here](transcripts.md) for the course transcripts
 
 ## Try It
 
